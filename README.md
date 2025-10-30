@@ -98,7 +98,7 @@ Bright Data is very friendly to new users, offering $2 free credit to experience
 
 **Free Credit for New Users**
 
-After registering a [Bright Data official account](https://www.scraperapi.com/?fp_ref=coupons), log into the control panel. In the payment menu, you'll see the platform's instant free credit. Now we can experience any proxy on the platform.
+After registering a Bright Data official account, log into the control panel. In the payment menu, you'll see the platform's instant free credit. Now we can experience any proxy on the platform.
 
 
 
